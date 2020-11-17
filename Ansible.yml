@@ -13,4 +13,4 @@
       name: "status nginx"
       service: 
         name: nginx
-        start: starte
+        start: started
